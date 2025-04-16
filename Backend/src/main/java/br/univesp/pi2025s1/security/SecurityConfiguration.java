@@ -1,4 +1,4 @@
-package br.univesp.pi2025s1.pi2025s1.security;
+package br.univesp.pi2025s1.security;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
